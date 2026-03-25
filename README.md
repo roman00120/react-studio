@@ -90,7 +90,7 @@ npm run dev
 
 Si quieres conversar sobre oportunidades, estaré encantado de conectar.
 
-- Email: hola@luminastudio.com
+- Email: romy00120@gmaill.com
 - Location: Guadalajara, Jalisco (Remoto global)
 
 ---

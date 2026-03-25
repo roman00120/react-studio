@@ -16,7 +16,7 @@ const Footer = () => (
         </p>
       </div>
       <div className="grid gap-3 text-sm text-slate-400 md:text-right">
-        <p>hola@luminastudio.com</p>
+        <p>romy00120@gmaill.com</p>
         <p>Guadalajara, Jalisco · Remoto global</p>
         <p>© 2026 Lumina Studio. Todos los derechos reservados.</p>
       </div>
