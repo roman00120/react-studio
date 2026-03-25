@@ -67,6 +67,24 @@ npm run dev
 
 ---
 
+## Deploy en GitHub Pages
+
+Este proyecto ya está configurado para GitHub Pages usando `gh-pages`.
+
+```bash
+npm install
+npm run deploy
+```
+
+Luego en GitHub:
+- Settings → Pages
+- Branch: `gh-pages` / `root`
+
+Tu sitio quedará publicado en:  
+`https://roman00120.github.io/react-studio/`
+
+---
+
 ## Enfoque UX/UI
 
 - **AIDA en el copy** para dirigir la narrativa: Atención → Interés → Deseo → Acción.
